@@ -1,2 +1,1 @@
-# TallerApp
-Laravel 9 - Mechanic app for managing workorders
+# ISW-613-taller-app
